@@ -1,7 +1,7 @@
 # engineering-thesis
 ### Engineer's Thesis written at AGH University of Science and Technology  
 
-##### Summary
+#### Summary
 &nbsp;&nbsp;The aim of the study was creating a system for classifying photographs of the surface of aircraft
 structures according to the occurrence of corrosion. The system should consist of a convolutional neural
 network trained to effectively identify corrosion on the skin. Interaction with the classifier should be
@@ -27,7 +27,7 @@ SVM, thresholding) were tested.
 standardized data. The network achieved 75% accuracy on the test set, correctly classifying 90% of
 photos showing corroded surfaces.
   
-##### Streszczenie
+#### Streszczenie
 &nbsp;&nbsp;Celem pracy było stworzenie systemu do predykcji występowania korozji na zdjęciach poszyć statków
 powietrznych. Główną część systemu miała stanowić konwolucyjna sieć neuronowa, wytrenowana do
 skutecznego rozpoznawania obecności rdzy na poszyciu. Interakcja z klasyfikatorem miała być
